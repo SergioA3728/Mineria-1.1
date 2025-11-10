@@ -156,5 +156,11 @@ except Exception as e:
 # ----------------- Tabla de datos filtrados -----------------
 st.subheader("Datos filtrados")
 st.dataframe(df_f.reset_index(drop=True), height=300, use_container_width=True)
-
-
+with st.expander("Acerca de este proyecto"):
+    st.write("**Desarrollado por:**")
+    st.write("- Cesar Acosta (10032)")
+    st.write("- Jesus Cuentas (10032)")
+    st.write("- Rafael Ortiz (10032)")
+    st.write("- Sergio Avila (10895)")
+    st.write("\n**Universidad:** Corporación universitaria de la costa")
+    st.write("**Año:** 2025")
