@@ -1,3 +1,7 @@
+Cesar Acosta (10032)
+Jesus Cuentas (10032)
+Rafael Ortiz (10032)
+Sergio Ávila (10895)
 
 # Dashboard - Universidad (Entregable)
 
